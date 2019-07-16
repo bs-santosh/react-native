@@ -1,0 +1,13 @@
+Why react native?
+- 2 tech stack Android and iOs
+- Kotlin gives uncanny effect - gives feel of not a native app
+- Xamarine - C# based. Additional compilation stage
+- Produces native experience
+
+React Native has
+- great community
+- supports dynamic deployment
+- JS based 
+- Heaps of plugins
+
+PureScript, Flutter are competitor to React Native
